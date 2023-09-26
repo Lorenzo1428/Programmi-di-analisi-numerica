@@ -1,0 +1,11 @@
+Attenzione! 
+
+Per un corretto inserimento della matrice mediante file, inserire gli elementi della matrice nel file di testo "matrice orlata"
+e assicurarsi di:
+
+- partire dall'estremo sinistro del file di testo;
+- distanziare ciascun numero reale con uno spazio;
+- distanziare con uno spazio prima e dopo il simbolo "|";
+- andare a capo quando si inserisce l'elemento del vettore dei termini noti;
+
+Un esempio corretto di implementazione è riportato nel file di testo "matrice esempio".
